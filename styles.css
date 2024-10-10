@@ -202,3 +202,51 @@ body{
     border: none; /* Borderless button */
     cursor: pointer; /* Pointer on hover */
 }
+
+.movedon-button{
+    position: absolute;
+    top: 497px;
+    left: 142px;
+    width: 107px;
+    height: 38px;
+    background: transparent url('img/Group 5.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border: none; /* Borderless button */
+    cursor: pointer; /* Pointer on hover */
+    color: white; /* Text color */
+    font-size: 16px; /* Font size */
+    background-color:none;
+    background-size:contain;
+}
+
+.img-line{
+    position: relative;
+    width:50px;
+    height:1px;
+    top:295px;
+    left:141px;
+}
+
+.lorem-ipsum{
+    position: relative;
+    width:1002px;
+    height:23px;
+    top:284px;
+    left:218px;
+}
+
+.lorem-ipsum-dolor{
+    position: relative;
+    width:1002px;
+    height:71px;
+    top:319px;
+    left:140px;
+}   
+
+.vestibulum{
+    position: relative;
+    width:1002px;
+    height:58px;
+    top:400px;
+    left:140px;
+}
