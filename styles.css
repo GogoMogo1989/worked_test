@@ -3,14 +3,6 @@ body{
     height: 100vh;
     margin:0;
 }
-/* 
-.first-page{
-    width:100%;
-    height:100vh;
-    background: transparent url('img/Group\ 128@2x.png');
-    background-size:cover;
-    position: relative;
-} */
 
 .custom-box {
     position: absolute;
