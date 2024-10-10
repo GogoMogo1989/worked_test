@@ -1,0 +1,204 @@
+body{
+    width:100%;
+    height: 100vh;
+    margin:0;
+}
+/* 
+.first-page{
+    width:100%;
+    height:100vh;
+    background: transparent url('img/Group\ 128@2x.png');
+    background-size:cover;
+    position: relative;
+} */
+
+.custom-box {
+    position: absolute;
+    left: 0px;
+    width: 100%;
+    height: 138px;
+    background: transparent url('img/Rectangle 1.png') 0% 0% no-repeat padding-box;
+    opacity: 0.96;
+    background-color: #262227;
+}
+
+.header-image {
+    position: absolute;
+    top: 41.53px;
+    left: 140px;
+    width: 323.23px;
+    height: 58.93px;
+    background: transparent url('img/Layer_1-2.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.quote-button {
+    position: absolute;
+    top: 50px;
+    right: 139px;
+    width: 138px;
+    height: 38px;
+    background: transparent url('img/Group 5.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border: none; /* Borderless button */
+    cursor: pointer; /* Pointer on hover */
+    color: white; /* Text color */
+    font-size: 16px; /* Font size */
+    background-color: #262227;
+    background-size:contain;
+}
+
+.connection-button{
+    position: absolute;
+    top: 58px;
+    right: 342.56px;
+    width: 80px;
+    height: 23px;
+    border: none; /* Borderless button */
+    cursor: pointer; /* Pointer on hover */
+    color: white; /* Text color */
+    font-size: 16px; /* Font size */
+    background-color: #262227;
+}
+
+.prices-button{
+    position: absolute;
+    top: 58px;
+    right: 488.56px;
+    width: 80px;
+    height: 23px;
+    border: none; /* Borderless button */
+    cursor: pointer; /* Pointer on hover */
+    color: white; /* Text color */
+    font-size: 16px; /* Font size */
+    background-color: #262227;
+}
+
+.szolg-button{
+    position: absolute;
+    top: 58px;
+    right: 589.56px;
+    width: 147px;
+    height: 23px;
+    border: none; /* Borderless button */
+    cursor: pointer; /* Pointer on hover */
+    color: white; /* Text color */
+    font-size: 16px; /* Font size */
+    background-color: #262227;
+}
+
+.action-button{
+    position: absolute;
+    top: 58px;
+    right: 802.56px;
+    width: 143px;
+    height: 23px;
+    border: none; /* Borderless button */
+    cursor: pointer; /* Pointer on hover */
+    color: white; /* Text color */
+    font-size: 16px; /* Font size */
+    background-color: #262227;
+}
+
+.climates-button{
+    position: absolute;
+    top: 58px;
+    right: 1028.56px;
+    width: 52px;
+    height: 23px;
+    border: none; /* Borderless button */
+    cursor: pointer; /* Pointer on hover */
+    color: white; /* Text color */
+    font-size: 16px; /* Font size */
+    background-color: #262227;
+}
+
+.about-button{
+    position: absolute;
+    top: 58px;
+    right: 1146.56px;
+    width: 52px;
+    height: 23px;
+    border: none; /* Borderless button */
+    cursor: pointer; /* Pointer on hover */
+    color: white; /* Text color */
+    font-size: 16px; /* Font size */
+    background-color: #262227;
+}
+
+.about-button:hover{
+    color:#22C4E5
+}
+
+.climates-button:hover{
+    color:#22C4E5
+}
+
+.action-button:hover{
+    color:#22C4E5
+}
+
+.szolg-button:hover{
+    color:#22C4E5
+}
+
+.prices-button:hover{
+    color:#22C4E5
+}
+
+.connection-button:hover{
+    color:#22C4E5
+}
+
+.quote-button:hover{
+    color:#22C4E5
+}
+
+.main-box {
+    position: absolute; 
+    top: 138px; 
+    left: 0px;
+    width: 100%;
+    height: calc(100vh - 138px); 
+    background: transparent url('img/Group\ 128@2x.png');
+    background-size:cover;
+}
+
+.main-box img{
+    position: absolute;
+    bottom:0px;
+    right:0px;
+}
+
+.facebook-button{
+    position: absolute;
+    right: 0px;
+    top:284px;
+    width:57px;
+    height:57px;
+    background: url('img/Group\ 78.png');
+    border: none; /* Borderless button */
+    cursor: pointer; /* Pointer on hover */
+}       
+
+.search-button{
+    position: absolute;
+    right: 0px;
+    top:346px;
+    width:57px;
+    height:57px;
+    background: transparent url('img/Group\ 79.png');
+    border: none; /* Borderless button */
+    cursor: pointer; /* Pointer on hover */
+}
+
+.filter-button{
+    position: absolute;
+    right: 0px;
+    top:408px;
+    width:57px;
+    height:57px;
+    background: url('img/Group\ 80.png');
+    border: none; /* Borderless button */
+    cursor: pointer; /* Pointer on hover */
+}
